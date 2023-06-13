@@ -2,4 +2,6 @@
     <string name="app_name">composeCamp</string>
     <string name="title_activity_lecture2">Lecture2</string>
     <string name="title_activity_lecture4">lecture4</string>
+    <string name="title_activity_lecture6">Lecture6</string>
+    <string name="title_activity_lecture6parttwo">Lecture6parttwo</string>
 </resources>
