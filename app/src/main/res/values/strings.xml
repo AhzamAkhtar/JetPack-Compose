@@ -7,4 +7,5 @@
     <string name="title_activity_lecture7">Lecture7</string>
     <string name="title_activity_list">List</string>
     <string name="title_activity_constraint_layout">ConstraintLayout</string>
+    <string name="title_activity_meditation_ui">MeditationUI</string>
 </resources>
